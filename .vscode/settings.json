@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "esp_timer.h": "c",
+        "sdmmc_defs.h": "c",
+        "esp_camera.h": "c",
+        "freertos.h": "c",
+        "esp_vfs_fat.h": "c"
+    }
+}
